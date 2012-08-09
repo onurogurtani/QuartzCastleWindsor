@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quartz.job", "quartz.job\qu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quartz.IoC", "quartz.IoC\quartz.IoC.csproj", "{A9F9329B-1F98-4795-A13F-316EFCC8DCC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quartz.test", "quartz.test\quartz.test.csproj", "{87D965CB-BEF9-4166-B140-B27589404432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{A9F9329B-1F98-4795-A13F-316EFCC8DCC2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{A9F9329B-1F98-4795-A13F-316EFCC8DCC2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{A9F9329B-1F98-4795-A13F-316EFCC8DCC2}.Release|x86.ActiveCfg = Release|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{87D965CB-BEF9-4166-B140-B27589404432}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
